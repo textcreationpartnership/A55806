@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gravamina mercatoris, or, The tradesman's complaint of the abuses in the execution of the statutes against bankrupts humbly offered to the consideration of both Houses of Parliament / by Phil Price.</title>
+            <author>Price, Phil., of Chancery-Lane.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55806</idno><idno type="EEBO-CITATION">10964106</idno>
+  <idno type="VID">46161</idno>
+  <idno type="EEBO-PROQUEST">2240899661</idno>
+  
+            <idno type="STC">Wing P3398</idno>
+            <idno type="STC">ESTC R29236</idno>
+            <idno type="OCLC">10964106</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1388:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gravamina mercatoris, or, The tradesman's complaint of the abuses in the execution of the statutes against bankrupts humbly offered to the consideration of both Houses of Parliament / by Phil Price.</title>
+                  <author>Price, Phil., of Chancery-Lane.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bankruptcy --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Charters, grants, privileges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:46161:1"/>
+            <pb n="1" facs="tcp:46161:1"/>
+            <head>
+               <hi>GRAVAMINA MERCATORIS:</hi> OR, The Tradesman's Complaint OF THE Abuses in the Execution of the Statutes against BANKRUPTS. <hi>Humbly Offered to the Consideration of Both Houses of</hi> Parliament.</head>
+            <epigraph>
+               <q>Rerum Progressus ostendunt multa quae initio praevideri non possunt, <bibl>
+                     <hi>Cook Mag. Chart.</hi> Fol. <hi>26.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <byline>By <hi>PHIL. PRICE,</hi> of <hi>Chancery-Lane.</hi>
+            </byline>
+            <p>
+               <hi>TRADE</hi> and <hi>TRAFFICK,</hi>
+               <note place="margin">Cook <hi>2</hi> Inst. fol. <hi>28.</hi> Mag. Chart. c. <hi>30.</hi> Stat. <hi>27.</hi> Ed. <hi>III.</hi> c. <hi>22.</hi> Stat. <hi>13</hi> Ed. <hi>II</hi> c. <hi>1.</hi> Stat. <hi>26</hi> Ed. <hi>III.</hi> c. <hi>7.</hi> Cook. <hi>4</hi> Instit. fol. <hi>277.</hi>
+               </note> (which is the Livelyhood of the Merchant) being the Life and Support of the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> wherein the King and every Subject hath an Interest, great Care hath been taken by the <hi>Government,</hi> in all Times, to encourage, and advance the same; and several Provisions were made by our Ancient Laws, for the Ease and Benefit of Merchants, for the speedy Recovery of their Debts, <hi>Cook</hi> 2 Instit. Fol. 28.</p>
+            <p>It is by the Statute of the 13 <hi>Eliz. Cap</hi> 7. Enacted, <hi>That the Lord Chancellor of England, or Lord Keeper of the Great Seal, for the time being, upon every Complaint made to him in Writing,</hi>
+               <note place="margin">Stat. <hi>13</hi> Eliz. c. <hi>7.</hi> Stat. <hi>1.</hi> Jac. <hi>I.</hi> c. <hi>15.</hi> Stat. <hi>21</hi> Jac. I. c. <hi>19.</hi>
+               </note>
+               <hi>against such Person or Persons being Bankrupts,</hi> (as therein is described) <hi>shall have full Power and Authority, by Commission under the Great Seal of England, to Name, Assign, and Appoint such Wise, Honest, and Discreet Persons, as to him shall seem Good; who, or the most Part of them, by Virtue of this Act, and of such Commission, shall have full Power and Authority, to take, by
+<pb n="2" facs="tcp:46161:2"/> their Discretion, such Order and Direction with the Body, Lands, and Goods of the Bankrupt,</hi> as therein is directed.</p>
+            <p>Who shall he adjudged a <hi>Bankrupt,</hi> is further declared by the Statute of the 1 <hi>Jac.</hi> 1. <hi>Cap.</hi> 15. But most fully, and the Authority of the <hi>Commissioners</hi> more amply enlarged, by the Statute of 21 <hi>Jac.</hi> 1. <hi>Cap.</hi> 19. which are all the Statutes now in force against <hi>Bankrupts;</hi> and indeed, are more than enough, if there be not good Use made of the Powers and Authorities thereby given; which are the great<g ref="char:EOLhyphen"/>est in our Law, next to Life and Member. The <hi>Commissioners</hi> ha<g ref="char:EOLhyphen"/>ving Power, by these Statutes, to dispose of the Body, Lands, and Goods of the Subject, <hi>at their Discretion;</hi> which no Judge of the Land, nor the KING Himself, can do; <hi>Nisi per legale Judicium pa<g ref="char:EOLhyphen"/>rium suorum,</hi>
+               <note place="margin">Mag. Chart. c. <hi>29.</hi> Cook <hi>4</hi> Instit. fol. <hi>278.</hi>
+               </note>
+               <hi>vel per Legem Terrae,</hi> Mag. Chart. <hi>Chap.</hi> 29. So that these <hi>Commissioners</hi> had well need to have the Three Qualities requi<g ref="char:EOLhyphen"/>red by these Laws, <hi>(viz.) Wisdom, Honesty,</hi> and <hi>Discretion.</hi>
+            </p>
+            <p>All these Statutes were made for the Benefit and Advancement of TRADE;<note place="margin">Cook <hi>4</hi> Instit. fol. <hi>277.</hi> Stat. <hi>25.</hi> Ed. <hi>III.</hi> Stat. <hi>3.</hi> c. <hi>23.</hi>
+               </note>
+               <hi>And are therefore, in all Things, to be largely and bene<g ref="char:EOLhyphen"/>ficially Construed for the Aid, Help, and Relief of Creditors;</hi> who there<g ref="char:EOLhyphen"/>by have, or ought to have, a better Remedy, than the <hi>Common Law</hi> had provided: <hi>viz.</hi>
+               <list>
+                  <item>1. A speedy Remedy, in respect of the Delay by Action.</item>
+                  <item>2. Easier, in respect of the Charge.</item>
+                  <item>3. Safer and Certain, in respect of the Secrecy; for that the No<g ref="char:EOLhyphen"/>tice and Delay, which otherwise happened, gave the <hi>Bankrupt</hi> Opportunity, by secreting Himself, and his Effects, to defeat his Creditors.</item>
+               </list>
+            </p>
+            <p>These Laws do not Erect any Office, nor Appoint the Person that shall Draw, Ingross, and Pass these <hi>Commissions,</hi> nor any Fee, or Reward for so doing. The Law-Makers well knowing, That New Offices (as the Learned Sir <hi>Edward Cook</hi> saith) <hi>Are under the Pretence of the Common Good,</hi>
+               <note place="margin">Cook <hi>2</hi> Inst. fol. <hi>540.</hi>
+               </note>
+               <hi>exercised to the Intollerable Grievance of the Subject,</hi> which will appear from the present Subject: And there<g ref="char:EOLhyphen"/>fore, of Right it belongs to the <hi>Clerks</hi> of the <hi>Chancery Office,</hi> (whose Business it is, as the <hi>Clerks</hi> and <hi>Attorneys</hi> of other <hi>Courts</hi> do, to di<g ref="char:EOLhyphen"/>spatch the Business of their <hi>Court</hi>) to make out these <hi>Commissions,</hi> for Reasonable Fees, in like Cases allowed.</p>
+            <p>
+               <note place="margin">Mag Chart. c. <hi>29.</hi> Cook <hi>2</hi> Inst. fol. <hi>40.</hi>
+               </note>And the <hi>Commission</hi> ought to be Awarded without Difficulty; for it is not ex <hi>Gratia;</hi> but the <hi>Lord Chancellor,</hi> or <hi>Lord Keeper,</hi> ought to grant the same <hi>ex debito Justitiae,</hi> upon the Complaint of the <hi>Credi<g ref="char:EOLhyphen"/>tors</hi> praying the same.</p>
+            <p>The <hi>Law</hi> b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing so, let us examine the <hi>Fact,</hi> and from the present Practice consider, how far it has Answered the Ends of these Provisions.</p>
+            <pb n="3" facs="tcp:46161:2"/>
+            <p>About the Beginning of <hi>Car.</hi> 2. one <hi>John Norden,</hi> Esq; obtain'd the Kings Letters Patent for the Office of <hi>Clerk of the Bankrupts;</hi> and, by Colour of this New Office, he claimed the Sole Making and Passing, under the <hi>Great Seal,</hi> all <hi>Commissions of Bankrupt,</hi> and all Proceedings thereupon; and demanded, and took of the Subject, vast Sums of Money, as Fees due for the same. After his Death, his Son, a Youth, gets a Warrant to renew the Patent; which co<g ref="char:EOLhyphen"/>ming to the <hi>Great Seal,</hi> in the Time of the late Lord Keeper <hi>B.</hi> his Lordship, or some for him, who (as well as Others, in these late Times of Disorder and Oppression) loved Gain, finding that Money was to be got by this new-invented Office, quarrel'd with the Patent, and insisted, That the Office belonged to him, as <hi>Lord Keeper:</hi> Whereupon the Youth, whether out of fear of his Title, or of the Greatness of the Person contending it or both, thought best to com<g ref="char:EOLhyphen"/>pound the Matter, and took in with him his <hi>Lordship</hi>'s Kinsman, one Mr. <hi>B.</hi> (Secretary to the late <hi>High Commission Court</hi>) into the Pa<g ref="char:EOLhyphen"/>tent; to whom the Sole Interest is now accrued by Survivorship.</p>
+            <p>The Business to be done, (and which is assumed by this <hi>Ʋps<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art-Office</hi>) is, To Draw and Ingross the Petition for the <hi>Commission,</hi> and to Write and Ingross the Commission annex'd to it, and carry it to the Great Seal and pass it; for which (as he pretends) he pays to the Lord Chancellor, or Lord Keeper's Officers these Fees, <hi>viz. To the Secretary for the Fiat, or Grant of the Commission,</hi> 12 <hi>s.</hi> 6 d. <hi>To the Clerk of the Hanaper for the Broad Seal,</hi> 12 s. 6 d. <hi>To the Seal Keeper,</hi> 2 s. These claimed as due, besides others, <hi>vitiis &amp; modis,</hi> which we shall not now inspect into: But this we aver, That what my Lord <hi>Cook</hi> hath said, to be the consequence of new Offices: <hi>viz.</hi> That under pretence of Common Good, they are Exercised to the intollerable Grievance of the Subject, is in all things verified in this, even to the defeating of all the ends for which these Laws were made, as will appear by these Instances, among many:</p>
+            <p n="1">1. The said Officer hath taken upon him to enter and admit of <hi>Caveats,</hi> whereby to stop the Commissions, and give Notice to the Bankrupt, to the great delay of the Subject, and the de<g ref="char:EOLhyphen"/>feating of the very purpose of the said Laws, as by that fa<g ref="char:EOLhyphen"/>mous Case (among many,) <hi>viz. Dod</hi> against <hi>Wilkinson.</hi> A cer<g ref="char:EOLhyphen"/>tain Bankrupt apprehending, that a Commission would be ta<g ref="char:EOLhyphen"/>ken out against him, enters a Caveat with the Clerk of this Office, to give him Notice when his Creditors came for a Commission. The Creditors came, and bespoke the Com<g ref="char:EOLhyphen"/>mission, and left a good round Sum in Hand for it, with this Clerk, who soon gives the Bankrupt Notice; who hereupon
+<pb n="4" facs="tcp:46161:3"/> sets up Sham-Creditors; and for a bigger Sum (besides what was before given for the <hi>Caveat</hi>) gets the Clerk, to make out a Commission, to Commissioners of his own naming, who make an Assignment to the Sham-Creditors, who thereby swept away all the Bankrupts Estate Six Weeks before the real Creditors could have their Commission out, or knew any thing of the Matter. And all the Remedy they could have, was only an After-game, by an Action against the Clerk.</p>
+            <p>[Many a <hi>Bankrupt,</hi> by means of these <hi>Caveats,</hi> has had Oppor<g ref="char:EOLhyphen"/>tunity to with-draw Himself, and Estate, to the defrauding of his Creditors, and Ruin of the Subject.]</p>
+            <p n="2">2. The said Officer, by colour of his said Office, hath constrain<g ref="char:EOLhyphen"/>ed the Subject, before he would deliver to him the said Com<g ref="char:EOLhyphen"/>mission, to enter into a Bond of some great Penalty, to the Lord Chancellor or Lord Keeper for the time being, and to enter into Oaths and Affidavits, contrary to the form of the said Laws.</p>
+            <p n="3">3. The said Officer hath extorted and taken of the Subject di<g ref="char:EOLhyphen"/>vers great Sums of Money, as Fees due to him, by colour of his said Office, contrary to Law; <hi>viz.</hi>
+               <list>
+                  <item>For the Commission, <hi>6</hi> l. <hi>10</hi> s. <hi>or sometimes 8</hi> l. <hi>9</hi> l. and <hi>10</hi> l. <hi>or more.</hi>
+                  </item>
+                  <item>For every renew'd Commission, <hi>4</hi> l. <hi>0. 0.</hi> and sometimes more.</item>
+                  <item>For a Supersedeas, Procedendo, <hi>&amp;c.</hi> the like Fees, and more.</item>
+                  <item>For Copies of Depositions, <hi>&amp;c.</hi> as Register and Examiner, <hi>&amp;c.</hi> Fees without Stint.</item>
+                  <item>For Copies of Dockets, Affidavits, Petitions, <hi>&amp;c.</hi> Fees without Stint.</item>
+               </list>
+            </p>
+            <p>Upon the whole matter touching the said Office and Officer; we shall lay down these Conclusions:</p>
+            <p n="1">1. That the said Office is a <hi>Monopoly,</hi>
+               <note place="margin">
+                  <hi>Stat.</hi> 21 <hi>Jac.</hi> I. <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8. <hi>Stat.</hi> 9 <hi>H.</hi> III. <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 29. <hi>Cook</hi> 2 <hi>Inst. fol.</hi> 7. 63. <hi>Cook</hi> 3 <hi>Inst. fol.</hi> 19. 120. <hi>c. <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at.</hi> 25 <hi>Ed.</hi> I. <hi>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tat.</hi> 34 <hi>Ed.</hi> I. <hi>Cook</hi> 2 <hi>Inst. fol.</hi> 8. 29.</note> contrary to <hi>Magna Charta, cap.</hi> 29. and the Stat. 21 <hi>Jac.</hi> 1. <hi>cap.</hi> 3. and the Fundamental Laws of the Land, 2 <hi>Instit. fol.</hi> 47. 63. And the Officer highly punishable for the same, 3 <hi>Instit.</hi> Fol. 181, 182.</p>
+            <p n="2">2. That the said Officer is liable to a Praemunire, for presuming to exercise an Office, to the prejudice of the Subject, by an Authority foreign to the Laws of the Land; for that, by the Statute of the 25 <hi>Edw.</hi> 1. and also by the Statute of 34 <hi>E</hi> 1. called, <hi>Statutum de fallagio non concedendo;</hi> and other Laws, <hi>No new Office with any new Fee, nor any old Office with any new Fee,
+<pb n="5" facs="tcp:46161:3"/> can be erected, but by Authority of Parliament.</hi> Cook 2 Inst. Fol. 532.</p>
+            <p n="3">3. That the said Office is forfeited, for taking <hi>extortious Fees,</hi> con<g ref="char:EOLhyphen"/>trary to Law, and is liable to Indictments, and highly pu<g ref="char:EOLhyphen"/>nishable for the same.</p>
+            <p n="4">4. That the said Officer is liable to an Action at the Suit of eve<g ref="char:EOLhyphen"/>ry Subject, for the said Fees and Sums of Money by him ex<g ref="char:EOLhyphen"/>torted from them, as aforesaid.</p>
+            <p>Nor have the Abuses in the Execution of the said Laws stopt here; but far greater are and have been daily practis'd by all that have had any Finger therein, from the <hi>Custos clavis regni</hi> himself, to the very Porter or Messenger of those Commissioners imployed therein, even to the rendring of these Laws themselves a Burthen and Terror to the People; for the Officers of the Lord Chancellor or Lord Keeper, for the time being, have taken upon them, for lucre of great Fees, <hi>or rather Bribes,</hi> to admit of Caveats from the Bankrupt and others, to stop the Commission, until he or they are heard, unless a Client that has more understanding in the beating of the Pulse than another, comes and bleeds freely (as they call it) He may have it pass; as it hapned about seven years ago, against a Client of mine, upon a Creditor's advancing to the Secretary a round Sum, to the number of twelve Guinea's, the Commission past without difficulty, notwithstanding a Caveat against it. But otherwise References are made, and Counsel on both sides attend, to the grievous Charge of the Subject; insomuch that (as a parti<g ref="char:EOLhyphen"/>cular Instance) a Commission of Bankrupt being about ten years ago demanded against one <hi>Dethick,</hi> and being obstructed by these Caveats, it cost the Creditors in Counsels Fees, and to Officers, and otherwise, above 40 <hi>l.</hi> and yet were deny'd a Commission at last, which so incens'd some of the Creditors (who were as stout, as his Lordship was haughty) as that they resolved to try at once as well the Authority of the said Office of Bankrupts, as of his Lordship's denying the Commission: Whereupon they got a Commission to be made ready by one of the Clerks of the Chancery, without go<g ref="char:EOLhyphen"/>ing to this Officer: They tender'd it to his Lordship to be Sealed, which he refusing to do, they prepared a Petition to the Parlia<g ref="char:EOLhyphen"/>ment then Sitting, setting forth the Grievance, which they put into the Hands of a Noble Peer, who, out of Kindness to the Chancel<g ref="char:EOLhyphen"/>lor, shew'd him the Petition, which made his Lordship (as high as he was) change his Countenance, and immediately Seal the Com<g ref="char:EOLhyphen"/>mission: And though the Clerk of this Office knew of it (for it
+<pb n="6" facs="tcp:46161:4"/> was carry'd with a high hand) yet he never durst try the Legality of his Office, by bringing any Action against them.</p>
+            <p>The Chancellor or Keeper never regard the qualities, by the said Laws required in the Commissioners; they are generally put in by the Nomination of the Creditors, or their Sollicitor; the Commissioners are usually five or seven in Number; whereof three or four always act, and often times all of them; for such as are not Fee'd are apt to take it ill, and will be sure to remember it, when a <hi>Quorum</hi> cannot be made up without them; who being Practisers of the Law, and mercenary Men, they take 20 <hi>s.</hi> a piece for their Fees, at every Sitting, and sit not above an hour or two at a time at the business; and that at Taverns, and other publick places (scan<g ref="char:EOLhyphen"/>dalous to the Authority they bear) whereby after ten or more Sit<g ref="char:EOLhyphen"/>tings, Warrants, Depositions, Deeds of Assignment, Deeds of Di<g ref="char:EOLhyphen"/>vident, Messengers Fees, Bottles of Wine, Entertainments, Treats, Gifts, Bribes, Rewards, known and unknown, and other Charges defray'd, and all out of the poor Bankrupt's Estate, a great part of it is gone before any Debt is paid: But the greatest Abuses of all, are committed by the Assignees of the Commissioners, in the Sale of the Bankrupt's Estate, which is usually sold for about half the Va<g ref="char:EOLhyphen"/>lue: For instance, an Attorney (manager of a Commission against a certain Bankrupt) for a Bribe of 50 <hi>l.</hi> sold an Estate in Land for 1400 <hi>l.</hi> which cost the Owner 20 years ago 2100 <hi>l.</hi> and was really worth at the time of this Sale 2400 <hi>l.</hi> So that a Man, who before the Commission comes out, can pay 15 <hi>s.</hi> in the Pound, can now, after all these Pillages, scarce pay 9 <hi>s.</hi> in the Pound, perhaps not half of what his Estate would before have answered: To enume<g ref="char:EOLhyphen"/>rate all the Frauds and Abuses that have been practis'd by colour of these Laws, to the ruin of the Subject, would be as endless, as it is needless to our purpose, the same being notoriously known.</p>
+            <p>It remains therefore, that we offer some Method for Redress of the same. And, as previous thereunto, we cannot omit what our Learned Lord <hi>Cook</hi> saith,<note place="margin">
+                  <hi>Cook</hi> 2 <hi>Inst. fol.</hi> 209. 210.</note> 2 Instit. fol. 176. <hi>That the Ancient Law of</hi> England <hi>was▪ That none having any Office concerning the Administra<g ref="char:EOLhyphen"/>tion of Justice, should take any Fee, or Reward of any Subject for the do<g ref="char:EOLhyphen"/>ing of his Office, to the end he might be Free, and at Liberty to do Justice, and not to be Fettered with Golden Fees, as Fetters, to the Suppression and Subversion of Truth and Justice.</hi>— Which Rule seems to be grounded upon the Laws Divine,<note place="margin">
+                  <hi>Exod. c.</hi> 23. v. 8. <hi>Deut.</hi> 16.19.</note>
+               <hi>Deut.</hi> 16.19. <hi>A Gift doth blind the Eyes of the Wife, and pervert the Matters of the Righteous.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:46161:4"/>
+            <head>POST-SCRIPT.</head>
+            <p>WHat's above-mentioned, was Printed and Published about the Year 1688. And, as there is no better Way to avoid all the Inconveniencies therein set forth, than by Impowering a Majority of <hi>Creditors</hi> to Act, instead of the <hi>Commissioners of Bankrupt,</hi> several Emi<g ref="char:EOLhyphen"/>nent Merchants, and Traders in <hi>London,</hi> who have experienced the great Detriment, which They, and Others, have suffered for want of such a Law, have Certify'd the same to be very Necessary; as appears by the <hi>Testimonial</hi> Subscribed by Them, which was Deli<g ref="char:EOLhyphen"/>vered into the <hi>House of Lords,</hi> with a Bill, entituled, <hi>An Act for Relief of Creditors.</hi>
+            </p>
+            <p>'Tis not doubted, but such, who, under Colour of an <hi>Office,</hi> (which is a <hi>Monopoly,</hi> as appears by what has been already said, <hi>Pag.</hi> 4.) take Considerable Summs of Money for Passing and In<g ref="char:EOLhyphen"/>grossing all <hi>Commissions of Bankrupts;</hi> and the <hi>Commissioners</hi> and <hi>Clerks,</hi> who are concern'd in the Execution of the said <hi>Commissions;</hi> and al<g ref="char:EOLhyphen"/>so, the <hi>Goalers,</hi> and <hi>Keepers</hi> of <hi>Prisons,</hi> who enrich themselves by the Misfortunes of <hi>Insolvent Debtors,</hi> (from whom they take what they please for Chamber-Rent, besides Considerable Gratifications, for Liberty to be Prisoners at Large) do under-hand, by means of their Friends and Purses, use their utmost Endeavours to joyn with un<g ref="char:EOLhyphen"/>merciful <hi>Creditors.</hi> to Misrepresent, and hinder the Passing of this <hi>Act,</hi> for fear the Extraordinary Benefit, which will certainly Re<g ref="char:EOLhyphen"/>dound thereby to the Publick; May (when Experienc'd) Influence the <hi>Parliament</hi> to make a <hi>Law Perpetual,</hi> to the same purpose; there being no Occasion for a <hi>Commission of Bankrupt,</hi> and of putting the same in Execution against a <hi>Debtor,</hi> who is willing to discover his Estate to his <hi>Creditors,</hi> and satisfy them for their Debts, to the utmost of his Capacity; as many <hi>Debtors</hi> have frequently offer'd to do, immediately after their Failure, so as they might have their Liberty: And, if this <hi>Act</hi> Pass, It may be presumed, that <hi>Creditors,</hi> who have the greatest Share and Interest in the <hi>Debtor</hi>'s Estate, will not give away their Right, without very apparent Reason, that the <hi>Debtor</hi> deal fairly with them, and that he cannot pay more, or give any greater Satisfaction: And then, sure, they will be Wiser, in accepting some thing for their Debts, while it may be had, without Trouble or Charges; then in hazarding All, or the Grea<g ref="char:EOLhyphen"/>test Part of it, to be lost, by an expensive and needless Prosecution
+<pb n="8" facs="tcp:46161:5"/> of <hi>Commissions of Bankrupts,</hi> only to satisfy the Humor of some few <hi>Creditors;</hi> as it hath often been experienced, whereof many Hun<g ref="char:EOLhyphen"/>dred Instances might be given; but, for Brevity sake, the <hi>Three</hi> following <hi>CASES</hi> only, are offer'd to the <hi>Reader</hi>'s serious Consi<g ref="char:EOLhyphen"/>deration, <hi>viz.</hi>
+            </p>
+            <div n="1" type="case">
+               <head>I.</head>
+               <p>THE Case of <hi>A. B.</hi> late Brewer in <hi>London;</hi> who, about the Year <hi>1680.</hi> by reason of Great Losses, was forced to Abscond; Whereup<g ref="char:EOLhyphen"/>on One of his <hi>Creditors</hi> Sued out a <hi>Commission of Bankrupt</hi> against him, tho' against the Consent of his other <hi>Creditors,</hi> (which were about Twenty in Number) by whose Perswasion he delivered up his whole Estate into the Hands of Two of his <hi>Creditors,</hi> in Trust for all of them; not Re<g ref="char:EOLhyphen"/>serving above the Value of Five Pounds for himself, besides some few Hou<g ref="char:EOLhyphen"/>shold Goods, in hopes of an Agreement, to have the Liberty to work for his Family; which all his <hi>Creditors</hi> were willing to Grant him, except One single <hi>Creditor,</hi> for Two Hundred Pounds: who declared, That rather than take One Hundred Pound for it, (which he might have had out of his Estate delivered up as afore-said) he would give another Hundred Pound, to make Dice of his Bones: And then, by harassing the said <hi>Debtor,</hi> with Suits of Law, Judgments, and Exe<g ref="char:EOLhyphen"/>cutions, the Other <hi>Creditors,</hi> after having paid Contribution-Money to<g ref="char:EOLhyphen"/>wards the Charges of the <hi>Commission of Bankrupt,</hi> and Proceedings thereupon, never had any thing for their Debts; by reason the <hi>Creditor,</hi> who first took out the <hi>Commission,</hi> gathered in all he could possibly get of the Estate, and went there-with into <hi>France;</hi> leaving the Person, who was Security for him, in the Lurch: Who thereupon Retir'd into <hi>Salis<g ref="char:EOLhyphen"/>bury-Court;</hi> where he still remains: So that, the <hi>Estate,</hi> delivered by the <hi>Debtor,</hi> as aforesaid, (which amounted to above Twelve Hundred Pounds, and would have made good above Ten Shillings in the Pound to all his <hi>Creditors</hi>) is totally lost, without any hopes to Recover any Part of it: And the said <hi>Debtor,</hi> and his Family, hath ever since been exposed to very great Difficulties and Hardships.</p>
+            </div>
+            <div n="2" type="case">
+               <head>II.</head>
+               <p>THE Case of Sir <hi>Anthony Bateman</hi>'s Creditors, is also Remarkable; for, a Composition of Eight Shillings in the Pound being at first offe<g ref="char:EOLhyphen"/>red for their <hi>Debts,</hi> 'twas Accepted and Subscribed to, by above Two Thirds of his <hi>Creditors;</hi> having sufficiently satisfy'd them, there was E<g ref="char:EOLhyphen"/>state enough to make good that Offer; and Friends of his, that would have
+<pb n="9" facs="tcp:46161:5"/> engaged for his Performance, and taken the Estate into their Manage<g ref="char:EOLhyphen"/>ment: But, by the Obstinacy of a very few <hi>Creditors,</hi> that Agreement was broken off; and a <hi>Commission of Bankrupt</hi> being Sued out against him, the <hi>Commissioners</hi> procceded thereupon: And, after many Years Prose<g ref="char:EOLhyphen"/>cution, the whole Estate, forcibly brought in, (Contribution-Money and Expences deducted) did not divide Twelve Pence in the Pound to his <hi>Creditors.</hi>
+               </p>
+            </div>
+            <div n="3" type="case">
+               <head>III.</head>
+               <p>THE Case of the <hi>Forths</hi> cannot be forgot; where one Woman wilful<g ref="char:EOLhyphen"/>ly Prosecuting a <hi>Commission of Bankrupt,</hi> contrary to the Minds of the Rest of the <hi>Creditors,</hi> who would have accepted a Composition of the Estate, then valued at <hi>9000</hi> l. and which might have yielded as much, or more; the same, by means of the <hi>Commissioners,</hi> and their <hi>Assignees,</hi> was Reduced to under <hi>3000</hi> l. Value; and this within the Space of One Years Time.</p>
+            </div>
+         </div>
+         <div type="reasons">
+            <head>REASONS Humbly Offer'd to the High Court of <hi>Parliament,</hi> for an Act to Relieve <hi>Creditors.</hi>
+            </head>
+            <div n="1" type="reason">
+               <head>I.</head>
+               <p>THe Bill now depending, is only for the present time to Relieve many Creditors, by a Majority against a few, who, mistaking the Estate and Condition of their Insolvent Debtors, will not con<g ref="char:EOLhyphen"/>sent to accept of any reasonable agreement, or composition for their Debts, whereby Debtors become desperate, and either tran<g ref="char:EOLhyphen"/>sport themselves, with their Effects, beyond Sea, or consume the same in Prisons or secret places, without making any satisfaction to their Creditors, or at least, a great part of the Estate is spent in Suits of Law.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>II.</head>
+               <p>'Tis found by experience, That many considerable Traders are become insolvent, by Fire, War, and other unavoidable Misfor<g ref="char:EOLhyphen"/>tunes; and that such Persons seldom break, without having many Creditors, consisting of Traders, Artificers, Handicrafts, and Hus<g ref="char:EOLhyphen"/>bandmen;
+<pb n="10" facs="tcp:46161:6"/> who for want of speedily having what many be got for their Debts, must also break, and thereby break many others; and they, their Wives and Children, prove burthensom to their Parishes; and become unprofitable, and as it were dead Members of the Com<g ref="char:EOLhyphen"/>mon-wealth, as well as their Debtors, and Families, when they have consumed what they had left of their Estates.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>III.</head>
+               <p>Tho' oftentimes Debtors have little or nothing left to satisfy their Creditors, yet if their Liberty might be had by a reasonable agree<g ref="char:EOLhyphen"/>ment or composition, some of their Friends and Relations, out of Charity and Compassion to their Misfortunes, and desires to set them up again in the World, would, as it hath been frequently of<g ref="char:EOLhyphen"/>fered, be contented to give something of their own to satisfie the Creditors, which otherwise they will not do; and if they have any Estate to leave to the Debtors, will rather give it from them to others, who have not so much need of it, for fear the Credi<g ref="char:EOLhyphen"/>tors should seize upon it, by vertue of the Statutes against Bank<g ref="char:EOLhyphen"/>rupts.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>IV.</head>
+               <p>Twenty Creditors, sensible of their Debtors Misfortunes, are wil<g ref="char:EOLhyphen"/>ling to abate the rigour, and supply the defects of the Law, either by accepting of what Estate the Debtor hath left, or in lieu there<g ref="char:EOLhyphen"/>of, to take 5, 10, 15 <hi>s.</hi> or more, in the Pound, in full satisfaction of their Debts, and thereupon to discharge their Debtor: but two or three unmerciful Creditors, by insisting to have their whole Debts, the rest of the Creditors, who, according to the Rules of Equity and good Conscience, are intitled to a proportionable part of the Debtor's Estate, cannot get any satisfaction for their Debts: For if a Debtor should pay what the two or three Creditors demands, (which cannot be done without apparent Wrong and Injustice to the Twenty, by lessening their Proportions of his Estate) they would certainly be disobliged thereby, and upon that very account refuse to discharge him.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>V.</head>
+               <p>If a Debtor be restrained of his Liberty by two or three Creditors, 'tis as bad as if restrained by all his Creditors; for he will not pay some, unless all will agree to discharge him; and then his effects will either lye dead and waste, of if secretly imploy'd by him, can<g ref="char:EOLhyphen"/>not well be discovered, and if imployed by any other in trust for him, the Trustee hath opportunity to defraud both Creditor and Debtor.</p>
+            </div>
+            <div n="6" type="reason">
+               <pb n="11" facs="tcp:46161:6"/>
+               <head>VI.</head>
+               <p>Computing the great Numbers of Persons now in Prison, ab<g ref="char:EOLhyphen"/>sconding, and fled with their effects in secret places, or beyond Sea, who would return and make what satisfaction they can to their Creditors to obtain their liberty; it may be modestly reckoned, that Creditors in <hi>England</hi> will get above a Million of Money into their hands, by the passing of this Act, which otherwise will not be had.</p>
+            </div>
+            <div n="7" type="reason">
+               <head>VII.</head>
+               <p>In all, or most trading parts beyond Sea, a majority of Credi<g ref="char:EOLhyphen"/>tors conclude the rest. It is also the practice in <hi>England,</hi> in the de<g ref="char:EOLhyphen"/>cision of all Controversies, either in Trust or Power, for a ma<g ref="char:EOLhyphen"/>jority to govern the lesser part; and the Rule that all Colleges and Companies proceed by, in setting Fines, making Leases, Elections of Members, and all other Matters relating to their several Socie<g ref="char:EOLhyphen"/>ties; otherwise the variety of Mens Understandings, and oftner of their Private Interest, would make all Debates of Business endless. And, why should not a majority of Creditors in <hi>England</hi> conclude the rest?</p>
+            </div>
+            <div n="8" type="reason">
+               <head>VIII.</head>
+               <p>And as two Creditors for 100 <hi>l.</hi> debt, may, without the consent of twenty Creditors, for 2000 <hi>l.</hi> or more, sue out and prosecute a Commission of Bankrupt against their Debtor, and force all that ex<g ref="char:EOLhyphen"/>pect any distribution of what may be recovered of his Estate, to joyn and contribute to the charge; Why may not twenty Credi<g ref="char:EOLhyphen"/>tors, with much more reason, without the consent of two or three, make a reasonable agreement or composition with the Debtor, and force those two or three to comply therewith, considering how little falls to the shares of such as contribute to Commissions of Bankrupt, when Commissioners and Clerks Fees, and what is given to persons for making discoveries, are deducted?</p>
+            </div>
+            <div n="9" type="reason">
+               <head>IX.</head>
+               <p>It cannot be thought, but a majority of Creditors, who have traded with the Debtor, and trusted him, and who are best ac<g ref="char:EOLhyphen"/>quainted with his Circumstances, Estate and Condition, and are interested and intrusted to act, as well for the benefit of others as themselves; and who are restrained by this Act from making any fraudulent agreement or composition, or claiming any Debt which they cannot prove to be really, and <hi>bona fide,</hi> due to them, will be more frugal and careful, to have a true discovery and distribution of their Debtor's Estate, than Commissioners of Bankrupt will, who oftentimes are imployed by the Bankrupt, or some few of his
+<pb n="12" facs="tcp:46161:7"/> Creditors, whose Debts being privately secured, they, or such as they appoint, are commonly chosen Assignees of the Bankrupt's Estate, and require great Contributions to prosecute the Commis<g ref="char:EOLhyphen"/>sion, (which oftentimes is employed to bribe and treat the Com<g ref="char:EOLhyphen"/>missioners at Taverns, and other places, as 'tis daily practised) of purpose to discourage other Creditors from seeking relief thereby. And by such, or like Practices, the Estate, or the greatest part thereof is preserved for the Bankrupt, and few Creditors get any thing for their Debts.</p>
+            </div>
+            <div n="10" type="reason">
+               <head>X.</head>
+               <p>The Case duly considered, and that the Laws against Bank<g ref="char:EOLhyphen"/>rupts are for a discovery, and equal distribution of the Debtor's E<g ref="char:EOLhyphen"/>state, which cannot be done without Suits of Law, Trouble and Charges; and that this Act provides for the same by a Majority of Creditors, without any Suit of Law, Trouble, or Charges: It is hoped, that the High Court of Parliament will think it more reasonable, to relieve a Majority, than some few obstinate or un<g ref="char:EOLhyphen"/>merciful Creditors, who having plentiful Estates to live on, mat<g ref="char:EOLhyphen"/>ter not what become of other Men and their Families: And more especially, considering that this Act is but <hi>pro hac vice,</hi> to supply the present defects of the Execution of the Laws against Bank<g ref="char:EOLhyphen"/>rupts, and hath no retrospect; and that the Lord Chancellor, Lord Keeper, or Commissioners of the Great Seal, for the time be<g ref="char:EOLhyphen"/>ing, is, and are to be Judges, if any complaint be made by any Creditor, of any Partiality or Injustice done by the compounding Creditors.</p>
+               <p>There are several <hi>Debtors,</hi> who having, before their Fai<g ref="char:EOLhyphen"/>lure, (as it is often practised in such Cases) made over some Considerable Part of their Estates to other Per<g ref="char:EOLhyphen"/>sons, in Trust for their own Ʋse; which, not being willing to discover, are against the Passing of this <hi>Act;</hi> fearing their <hi>Creditors</hi> (by Reason of some <hi>Clauses</hi> therein) should require a Discovery upon the Making of an Agreement, or Composition with them: And, as they dare not appear to Publish their Dislike, for fear of being taken Notice of; yet having Friends and Re<g ref="char:EOLhyphen"/>lations, who are Men of Estates, and of a clear Repu<g ref="char:EOLhyphen"/>tation, they under-hand get them to find Fault with the <hi>Bill.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46161:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
